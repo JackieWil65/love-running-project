@@ -14,3 +14,9 @@ assignees: ''
 - Criteria 1
 - Criteria 3
 - Criteria 3
+
+# Tasks
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
